@@ -1,0 +1,5 @@
+Student_id: 2313110591
+Student Name: Kamolphop Sangpeng	
+Major: IT
+Level: 1
+Faculty: Information Technology
