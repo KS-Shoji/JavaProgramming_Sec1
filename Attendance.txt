@@ -1,4 +1,4 @@
 Id:2313110591
 Name-Surname:Kamolphop Sangpeng
-Date: Dec-19-2023
-Topic: Method and Overloading Method
+Date: Jan-16-2024
+Topic: Encapsulation Concept
